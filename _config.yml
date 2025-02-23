@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 我的爱好 hobby
+  - title: 我的爱好 Hobby
     link: /research.html
   - title: 论文 Publications
     link: /publications.html
